@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "task2",
+      "day": "5th June, 2022",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Appointment",
+      "day": "7th July, 2022",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Birthday ",
+      "day": "8 July, 2022",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
